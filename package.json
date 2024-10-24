@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "name": "async-cp",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon script"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
